@@ -10,7 +10,7 @@
 * [Normalizing the Data](#normalizing-the-data)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
-* [Data Sources](#Data Sources)
+* [Data Sources](#data-sources)
 * [Conclusion](#conclusion)
 
 ## Canva Presentation
